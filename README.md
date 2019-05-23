@@ -1,2 +1,2 @@
-# registry-tango-bands
-A list of contemporary bands and discography
+# registry-tango-brands
+A list of tango product sellers
